@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="HOME"/>
+
+    <item
+        android:id="@+id/nav_github"
+        android:icon="@drawable/ic_baseline_github_24"
+        android:title="GITHUB USERS"/>
+
+    <item
+        android:id="@+id/nav_myProfile"
+        android:icon="@drawable/ic_baseline_myprofile_24"
+        android:title="MY PROFILE"/>
+</menu>
